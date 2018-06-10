@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Edis Starter Code</string>
+    <string name="upload">Upload</string>
+    <string name="empty_view_title_text">Its a bit Lonely in here</string>
+    <string name="empty_view_subtitle_text">Get Started by adding a Student</string>
+    <string name="pre_nursery">Pre Nursery</string>
+    <string name="nursery_one">Nursery One</string>
+    <string name="nursery_two">Nursery Two</string>
+    <string name="transition">Transition</string>
+    <string name="basic_one">Basic One</string>
+    <string name="basic_two">Basic Two</string>
+    <string name="basic_three">Basic Three</string>
+    <string name="basic_four">Basic Four</string>
+    <string name="basic_five">Basic Five</string>
+    <string name="jss_one">JSS 1</string>
+    <string name="jss_two">JSS 2</string>
+    <string name="jss_three">JSS 3</string>
+    <string name="ss_one">SS 1</string>
+    <string name="ss_two">SS 2</string>
+    <string name="ss_three">SS 3</string>
+
+    <string name="delete_dialog_msg">Delete this Student Info ?</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <string name="gender">Gender </string>
+
+    <string name="guardian_name">Name</string>
+    <string name="occupation">Occupation</string>
+    <string name="phone_number">Phone Number</string>
+
+    <string name="other_details">Other Details </string>
+    <string name="feess">Fees</string>
+    <string name="address">Address</string>
+    <string name="guardian_details">Guardians Detail</string>
+    <string name="classs">Class</string>
+    <string name="name">Name </string>
+    <string name="age">Age</string>
+
+    <string name="overview">Overview</string>
+    <string name="male_gender">Male</string>
+    <string name="female_gender">Female</string>
+    <string name="action_delete_all_entries">Delete All Students</string>
+    <string name="action_insert_dummy_data">Insert Test Student</string>
+    <string name="action_save">Save</string>
+    <string name="editor_activity_title_new_student">Add A New Student</string>
+    <string name="editor_activity_title_edit_student">Edit Student Detail</string>
+    <string name="editor_insert_student_failed">Error with Saving Student Info</string>
+    <string name="editor_insert_student_successful">Student Saved</string>
+    <string name="editor_update_student_failed">Error WIth Updating Student Info</string>
+    <string name="editor_update_student_successful">Student Info Updated Successfully</string>
+    <string name="editor_delete_student_failed">Error With Deleting Student Info</string>
+    <string name="editor_delete_student_successful">Student Info Successfuly Deleted</string>
+</resources>

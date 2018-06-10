@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+
+
+    <ImageView
+        android:id="@+id/pupilImage"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        tools:src="@drawable/ic_launcher_background"/>
+
+        <Button
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:text="R.string.up"/>
+
+    <TextView
+
+        android:id="@+id/nameTextView"
+        tools:text="Name"
+        style="@style/detailsStyle"/>
+
+    <TextView
+
+        android:id="@+id/classTextView"
+        style="@style/detailsStyle"
+        tools:text="Class"/>
+
+    <TextView
+
+        android:id="@+id/ageTextView"
+        tools:text="Age"
+        style="@style/detailsStyle"/>
+
+    <TextView
+        tools:text="Guardian"
+        android:id="@+id/guardianTextView"
+        style="@style/detailsStyle"/>
+
+
+    <TextView
+
+        android:id="@+id/feesTextView"
+        tools:text="Fees Paid"
+        style="@style/detailsStyle"/>
+
+    <TextView
+
+        android:id="@+id/genderTextView"
+        tools:text="Gender"
+        style="@style/detailsStyle"/>
+
+    <TextView
+
+        android:id="@+id/addressTextView"
+        tools:text="Address"
+        style="@style/detailsStyle"/>
+
+
+</LinearLayout>

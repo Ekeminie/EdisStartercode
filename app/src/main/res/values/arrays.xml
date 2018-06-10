@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_gender_options">
+
+        <item>@string/unknown_class</item>
+        <item>@string/male_gender</item>
+        <item>@string/female_gender</item>
+    </string-array>
+
+    <string-array name="classes_option">
+        <item>@string/class_unknown</item>
+        <item>@string/pre_nursery</item>
+        <item>@string/nursery_one</item>
+        <item>@string/nursery_two</item>
+        <item>@string/transition</item>
+        <item>@string/basic_one</item>
+        <item>@string/basic_two</item>
+        <item>@string/basic_three</item>
+        <item>@string/basic_four</item>
+        <item>@string/basic_five</item>
+        <item>@string/jss_one</item>
+        <item>@string/jss_two</item>
+        <item>@string/jss_three</item>
+        <item>@string/ss_one</item>
+        <item>@string/ss_two</item>
+        <item>@string/ss_three</item>
+    </string-array>
+    <string name="unknown_class">Unknown</string>
+    <string name="class_unknown">Unknown</string>
+</resources>
